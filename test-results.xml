@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="92.1030" tests="6" failures="0">
+  <testsuite name="Root Suite" timestamp="2020-03-09T15:02:01" tests="0" time="0.0000" failures="0">
+  </testsuite>
+  <testsuite name="git_test " timestamp="2020-03-09T15:02:01" tests="6" file="C:\xampp\htdocs\express-dataset\test\tests.js" time="92.1030" failures="0">
+    <testcase name="git_test  http00.json: Sample Test" time="1.7950" classname="http00.json: Sample Test">
+    </testcase>
+    <testcase name="git_test  http01.json: Additional Test 1" time="7.7080" classname="http01.json: Additional Test 1">
+    </testcase>
+    <testcase name="git_test  http02.json: Additional Test 2" time="23.9170" classname="http02.json: Additional Test 2">
+    </testcase>
+    <testcase name="git_test  http03.json: Additional Test 3" time="17.1610" classname="http03.json: Additional Test 3">
+    </testcase>
+    <testcase name="git_test  http04.json: Additional Test 4" time="18.3820" classname="http04.json: Additional Test 4">
+    </testcase>
+    <testcase name="git_test  http05.json: Additional Test 5" time="23.1400" classname="http05.json: Additional Test 5">
+    </testcase>
+  </testsuite>
+</testsuites>
